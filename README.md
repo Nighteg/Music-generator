@@ -1,2 +1,4 @@
-# Music-generator
-Generating music with Neural Networks
+Generating music using RNN, CNN and BdLSTM.
+
+Maestro dataset:
+https://magenta.tensorflow.org/datasets/maestro
